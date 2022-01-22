@@ -11,6 +11,8 @@ namespace New_Project_1
             Console.WriteLine(name);
             string surname = "Канатьев";
             Console.WriteLine(surname);
+            int born = 1982;
+            Console.WriteLine(born);
         }
     }
 }
